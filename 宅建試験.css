@@ -1,0 +1,129 @@
+
+.ue{
+  background-color: aqua;
+  height:50px;
+  padding-left: 650px;
+  padding-top: 20px;
+  font-size:25px;
+  margin:0;
+  font-weight:800;
+}
+
+.teacher img {
+  opacity: 0.4;
+  margin-left:300px;
+  margin-top: 50px;
+
+}
+.all {
+  position:relative;
+}
+.letter{
+  position:absolute;
+  top:300px;
+  left:400px;
+  font-size: 400%;
+  font-weight:1000;
+}
+
+.all-1 img{
+  opacity:0.1;
+  height:100px;
+  width:73%;
+  margin-left:180px;
+}
+
+.all-1{
+  position:relative;
+}
+
+.text1{
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 100px;
+  position:absolute;
+  bottom:18px;
+}
+
+.picture img{
+  width:40%;
+  height: 500px;
+  margin-left: 400px;
+  margin-top:50px;
+  opacity:0.5;
+}
+
+.all2{
+  position:relative;
+}
+
+.mokuji{
+  position:absolute;
+  font-size:40px;
+  left:630px;
+  bottom:350px;
+}
+
+.mokujitachi{
+  position:absolute;
+  left:500px;
+  bottom:150px;
+  font-size:25px;
+}
+
+.hr1{
+  margin-top:100px ;
+  margin-bottom:100px;
+  width:80%;
+  height:1px;
+  background-color:green;
+}
+
+.all3{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.title1{
+  font-size:20px;
+  font-weight: 600;
+}
+
+
+
+.title2{
+  font-size:20px;
+  font-weight: 600;
+}
+
+.all4{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.sub-title{
+  font-weight:600;
+}
+
+.all5{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.title3{
+  font-size:20px;
+  font-weight: 600;
+}
+
+.copywright{
+  background-color: black;
+  height:50px;
+  color:white;
+  padding-left:500px;
+  padding-top:25px;
+  margin:0;
+}
+
+.body{
+  font-family:serif;
+}
